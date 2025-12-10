@@ -13,7 +13,8 @@
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "tenant": "15c3c309-733a-442a-a981-c6098e835969"
+            "tenant": "15c3c309-733a-442a-a981-xyz"
         }
     ]
+
 }
